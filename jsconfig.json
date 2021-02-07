@@ -1,0 +1,12 @@
+{
+  "comoilerOptions": {
+    "target":"se2015",
+    "experimentalDecorators": 'true'
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
+
+
